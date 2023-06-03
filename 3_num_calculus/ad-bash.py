@@ -6,6 +6,7 @@ lam=0.5
 def f(y):
     return lam*y
 
+
 # Function to perform Adams-Bashforth integration over the range 0<=t<=2, and
 # evaluate error
 def ad_bash(n):
